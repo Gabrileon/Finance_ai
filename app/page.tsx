@@ -1,5 +1,7 @@
+import { Button } from "./_components/ui/button";
+
 const Home = () => {
-  return <h1 className="flex text-red-500 mb-5"></h1>;
+  return <Button>Botao doido</Button>;
 };
 
 export default Home;
